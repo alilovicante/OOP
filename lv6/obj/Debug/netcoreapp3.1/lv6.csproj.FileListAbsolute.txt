@@ -1,0 +1,13 @@
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\bin\Debug\netcoreapp3.1\lv6.exe
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\bin\Debug\netcoreapp3.1\lv6.deps.json
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\bin\Debug\netcoreapp3.1\lv6.runtimeconfig.json
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\bin\Debug\netcoreapp3.1\lv6.runtimeconfig.dev.json
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\bin\Debug\netcoreapp3.1\lv6.dll
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\bin\Debug\netcoreapp3.1\lv6.pdb
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.csprojAssemblyReference.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.AssemblyInfoInputs.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.AssemblyInfo.cs
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.csproj.CoreCompileInputs.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.dll
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.pdb
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv6\obj\Debug\netcoreapp3.1\lv6.genruntimeconfig.cache

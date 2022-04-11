@@ -1,0 +1,13 @@
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\bin\Debug\netcoreapp3.1\lv2.exe
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\bin\Debug\netcoreapp3.1\lv2.deps.json
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\bin\Debug\netcoreapp3.1\lv2.runtimeconfig.json
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\bin\Debug\netcoreapp3.1\lv2.runtimeconfig.dev.json
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\bin\Debug\netcoreapp3.1\lv2.dll
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\bin\Debug\netcoreapp3.1\lv2.pdb
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.csprojAssemblyReference.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.AssemblyInfoInputs.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.AssemblyInfo.cs
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.csproj.CoreCompileInputs.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.dll
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.pdb
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\lv2\obj\Debug\netcoreapp3.1\lv2.genruntimeconfig.cache

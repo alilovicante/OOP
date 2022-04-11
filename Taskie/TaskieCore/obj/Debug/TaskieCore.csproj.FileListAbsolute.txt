@@ -1,0 +1,6 @@
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\Taskie\TaskieCore\bin\Debug\TaskieCore.dll
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\Taskie\TaskieCore\bin\Debug\TaskieCore.pdb
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\Taskie\TaskieCore\obj\Debug\TaskieCore.csprojAssemblyReference.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\Taskie\TaskieCore\obj\Debug\TaskieCore.csproj.CoreCompileInputs.cache
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\Taskie\TaskieCore\obj\Debug\TaskieCore.dll
+C:\Users\Ante\Desktop\Faks\3.semestar\OOP\LV\Taskie\TaskieCore\obj\Debug\TaskieCore.pdb
